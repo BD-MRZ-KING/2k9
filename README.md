@@ -16,5 +16,5 @@
 - `pip install lolcat`
 - `pip install bs4`
 - `git clone https://github.com/BD-MRZ-KING/2k9`
-- `cd 2k9.py`
-- `python 2k9.py.py`
+- `cd 2k9`
+- `python 2k9.py`
